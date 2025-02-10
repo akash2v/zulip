@@ -24,6 +24,7 @@
 /tools/conf.ini
 /tools/custom_provision
 /tools/droplets/conf.ini
+akash.txt
 
 ## Byproducts of setting up and using the dev environment
 *.pyc
